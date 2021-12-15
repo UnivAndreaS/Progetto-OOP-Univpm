@@ -21,7 +21,7 @@ public class InformazioniMeteo {
 	}
 	
 	//setter
-	public void setTempEff(int tempEff) {
+	public void setTempEff(int tempEff) { 
 		this.tempEff = tempEff;
 	}
 	public void setTempPer(int tempPer) {
