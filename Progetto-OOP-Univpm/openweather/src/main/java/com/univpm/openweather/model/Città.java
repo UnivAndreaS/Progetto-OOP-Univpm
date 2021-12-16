@@ -1,7 +1,7 @@
 package com.univpm.openweather.model;
 
 public class Città {
-	//modifica
+	//provaprova
 	//classe che definisce la città dalla quale si ottengono le previsioni
 	
 	//attributi
